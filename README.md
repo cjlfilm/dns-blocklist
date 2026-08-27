@@ -1,5 +1,29 @@
-# dns-blocklist
-This is a block list (bulk.txt), created from over 600 smaller blocklists (blocklist-origins.txt) for pi-hole. It blocks about 18 million domains.
+# DNS Blocklist
+
+The 1-million-domain list (`short.txt`) is best for low-powered hardware and trouble-free daily use, while the 16-million-domain list (`bulk.txt`) is best for maximum security isolation.
+
+### short.txt (1 Million Domains)
+* **Best Purpose:** Everyday home networks, smart TVs, and standard family devices.
+* **Advantages:** 
+  * Uses very little system memory (RAM).
+  * Extremely rare website breakage.
+  * Low administrative maintenance.
+* **Disadvantages:**
+  * Misses niche malware and emerging phishing links.
+  * Allows aggressive, lesser-known tracking scripts to pass.
+  * Leaves specialized corporate telemetry unblocked.
+
+### bulk.txt (16 Million Domains)
+* **Best Purpose:** High-security labs, dedicated privacy setups, and advanced power users.
+* **Advantages:**
+  * Blocks obscure, newly registered, and parked malicious domains.
+  * Eliminates almost all corporate data harvesting.
+* **Disadvantages:**
+  * Consumes high amounts of system memory (RAM).
+  * High false-positive rate that breaks normal web browsing.
+  * Requires constant manual whitelist troubleshooting.
+
+Use the 1 million list if you want a trouble-free internet experience for daily tasks.Use the 16 million list if you prioritize total privacy and have the time to fix broken websites.
 
 # Disclaimer
 
