@@ -29,7 +29,7 @@ Use the 1 million list if you want a trouble-free internet experience for daily 
 
 This blocklist is provided **as is** for advanced DNS filtering, privacy, security, and content-blocking purposes.
 
-With approximately **18 million domains**, this is an extremely aggressive blocklist. False positives are expected, and legitimate services may be blocked either partially or completely. This can include websites, APIs, CDNs, streaming services, gaming platforms, software updates, authentication systems, telemetry endpoints, and other commonly used online services.
+With approximately **16 million domains**, this is an extremely aggressive blocklist. False positives are expected, and legitimate services may be blocked either partially or completely. This can include websites, APIs, CDNs, streaming services, gaming platforms, software updates, authentication systems, telemetry endpoints, and other commonly used online services.
 
 By using this blocklist, you acknowledge and accept that:
 
