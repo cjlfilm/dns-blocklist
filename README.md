@@ -23,7 +23,7 @@ The 1-million-domain list (`short.txt`) is best for low-powered hardware and tro
   * High false-positive rate that breaks normal web browsing.
   * Requires constant manual whitelist troubleshooting.
 
-Use the 1 million list if you want a trouble-free internet experience for daily tasks.Use the 16 million list if you prioritize total privacy and have the time to fix broken websites.
+Use the 1 million list if you want a trouble-free internet experience for daily tasks. Use the 16 million list if you prioritize total privacy and have the time to fix broken websites.
 
 # Disclaimer
 
